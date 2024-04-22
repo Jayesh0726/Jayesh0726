@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **gsap ,css, html, js**
+- 💬 Ask me about **gsap ,css, html, js, node, express, mongodb, tailwindcss, ts**
 
 - 📫 How to reach me **jayeshpadwal09@gmail.com**
 
