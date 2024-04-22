@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Padwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://jayesh0726.github.io/Portfolio/)
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **gsap ,css, html, js**
